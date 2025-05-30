@@ -1,0 +1,773 @@
+{
+  "pharmacies": [
+    {
+      "chain_name": "CVS Pharmacy",
+      "type": "Retail Pharmacy Chain",
+      "notes": "Many CVS locations operate 24/7 for the main store, but **pharmacy hours are typically more limited** and often include a lunch break. Many offer drive-thru and in-store pickup. Some locations are HealthHUBs with expanded services.",
+      "locations": [
+        {
+          "name": "CVS Pharmacy (Pendleton Pike)",
+          "address": "6975 N. PENDLETON PIKE, INDIANAPOLIS, IN, 46226",
+          "phone": "(317) 542-7304",
+          "hours": {
+            "pharmacy": "Mon-Fri: 7:00 AM - 9:00 PM; Sat-Sun: 9:00 AM - 6:00 PM (Check for daily lunch breaks, often 1:30 PM - 2:00 PM)",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Drive-Thru Pharmacy", "In-Store Pickup"]
+        },
+        {
+          "name": "CVS Pharmacy (Madison Ave)",
+          "address": "7930 MADISON AVE, INDIANAPOLIS, IN, 46227",
+          "phone": "(317) 885-2360",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM (Check for daily lunch breaks, often 1:30 PM - 2:00 PM)",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Drive-Thru Pharmacy", "In-Store Pickup"]
+        },
+        {
+          "name": "CVS Pharmacy (S. Arlington Ave)",
+          "address": "4935 S. ARLINGTON, INDIANAPOLIS, IN, 46237",
+          "phone": "(317) 791-3822",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM (Check for daily lunch breaks, often 1:30 PM - 2:00 PM)",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Drive-Thru Pharmacy", "In-Store Pickup"]
+        },
+        {
+          "name": "CVS Pharmacy (W Southport Rd)",
+          "address": "1299 WEST SOUTHPORT RD, INDIANAPOLIS, IN, 46217",
+          "phone": "(317) 859-5881",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM (Check for daily lunch breaks, often 1:30 PM - 2:00 PM)",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Drive-Thru Pharmacy", "In-Store Pickup"]
+        },
+        {
+          "name": "CVS Pharmacy (S Emerson Ave)",
+          "address": "6010 SOUTH EMERSON AVENUE, INDIANAPOLIS, IN, 46237",
+          "phone": "(317) 783-5325",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM (Check for daily lunch breaks, often 1:30 PM - 2:00 PM)",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Drive-Thru Pharmacy", "In-Store Pickup"]
+        },
+        {
+          "name": "CVS Pharmacy (S Shelby St)",
+          "address": "2215 SOUTH SHELBY STREET, INDIANAPOLIS, IN, 46203",
+          "phone": "(317) 780-3265",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM (Check for daily lunch breaks, often 1:30 PM - 2:00 PM)",
+            "store": "Mon-Sun: 7:00 AM - 9:00 PM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Drive-Thru Pharmacy", "In-Store Pickup"]
+        },
+        {
+          "name": "CVS Pharmacy (E 46th St)",
+          "address": "2330 EAST 46TH ST, INDIANAPOLIS, IN, 46205",
+          "phone": "(317) 253-1636",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM (Check for daily lunch breaks, often 1:30 PM - 2:00 PM)",
+            "store": "Mon-Sun: 7:00 AM - 9:00 PM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Drive-Thru Pharmacy", "In-Store Pickup"]
+        },
+        {
+          "name": "CVS Pharmacy (S. Emerson Ave, Suite B) - **24 Hours Pharmacy**",
+          "address": "7935 S. EMERSON AVE., SUITE B, INDIANAPOLIS, IN, 46237",
+          "phone": "(317) 865-7593",
+          "hours": {
+            "pharmacy": "**24 Hours Daily** (Check for daily lunch breaks, often 1:30 PM - 2:00 PM)",
+            "store": "**24 Hours Daily**"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Drive-Thru Pharmacy", "In-Store Pickup"]
+        },
+        {
+          "name": "CVS Pharmacy (S. Meridian St)",
+          "address": "8970 S. MERIDIAN ST, INDIANAPOLIS, IN, 46217",
+          "phone": "(317) 882-0335",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM (Check for daily lunch breaks, often 1:30 PM - 2:00 PM)",
+            "store": "Mon-Sun: 7:00 AM - 11:00 PM (verify current hours)",
+            "minuteclinic": "Mon-Fri: 8:00 AM - 8:00 PM; Sat: 9:00 AM - 5:30 PM; Sun: 9:00 AM - 4:30 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "MinuteClinic", "Drive-Thru Pharmacy", "In-Store Pickup"]
+        },
+        {
+          "name": "CVS Pharmacy (N Arlington Ave)",
+          "address": "1030 N ARLINGTON AVE, INDIANAPOLIS, IN, 46219",
+          "phone": "(317) 353-8106",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM (Check for daily lunch breaks, often 1:30 PM - 2:00 PM)",
+            "store": "Mon-Sun: 7:00 AM - 12:00 AM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Drive-Thru Pharmacy", "In-Store Pickup"]
+        },
+        {
+          "name": "CVS Pharmacy (Brookville Rd)",
+          "address": "7935 BROOKVILLE RD, INDIANAPOLIS, IN, 46239",
+          "phone": "(317) 353-0783",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM (Check for daily lunch breaks, often 1:30 PM - 2:00 PM)",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Drive-Thru Pharmacy", "In-Store Pickup"]
+        },
+        {
+          "name": "CVS Pharmacy (Crawfordsville Road)",
+          "address": "8330 CRAWFORDSVILLE ROAD, INDIANAPOLIS, IN, 46234",
+          "phone": "(317) 347-4411",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM (Check for daily lunch breaks, often 1:30 PM - 2:00 PM)",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Drive-Thru Pharmacy", "In-Store Pickup"]
+        },
+        {
+          "name": "CVS Pharmacy (North Post Rd)",
+          "address": "5605 NORTH POST RD, INDIANAPOLIS, IN, 46216",
+          "phone": "(317) 547-2926",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM (Check for daily lunch breaks, often 1:30 PM - 2:00 PM)",
+            "store": "Mon-Sun: 7:00 AM - 9:00 PM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Drive-Thru Pharmacy", "In-Store Pickup"]
+        },
+        {
+          "name": "CVS Pharmacy (West 86th St) - **24 Hours Pharmacy**",
+          "address": "1375 WEST 86TH ST., INDIANAPOLIS, IN 46260",
+          "phone": "(317) 253-6427",
+          "hours": {
+            "pharmacy": "**24 Hours Daily** (Check for daily lunch breaks, often 1:30 PM - 2:00 PM)",
+            "store": "**24 Hours Daily**",
+            "minuteclinic": "Mon-Fri: 8:00 AM - 8:00 PM; Sat: 9:00 AM - 5:30 PM; Sun: 9:00 AM - 4:30 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "MinuteClinic", "Drive-Thru Pharmacy", "In-Store Pickup", "UPS Access Point"]
+        },
+        {
+          "name": "CVS Pharmacy (North Meridian St) - **24 Hours Pharmacy**",
+          "address": "1545 NORTH MERIDIAN ST., INDIANAPOLIS, IN 46202",
+          "phone": "(317) 923-1491",
+          "hours": {
+            "pharmacy": "**24 Hours Daily** (Check for daily lunch breaks, often 1:30 PM - 2:00 PM)",
+            "store": "**24 Hours Daily**",
+            "minuteclinic": "Mon-Fri: 8:00 AM - 8:00 PM; Sat: 9:00 AM - 5:30 PM; Sun: 9:00 AM - 4:30 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "MinuteClinic", "Drive-Thru Pharmacy", "In-Store Pickup", "UPS Access Point"]
+        },
+        {
+          "name": "CVS Pharmacy (W Michigan St)",
+          "address": "227 W Michigan St Indianapolis, IN 46204",
+          "phone": "Not readily available, refer to nearby CVS listings or general CVS locator.",
+          "notes": "One of the downtown locations. **Always verify hours directly.**",
+          "hours": {
+            "pharmacy": "Varies, check directly with store.",
+            "store": "Varies, check directly with store."
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        }
+      ]
+    },
+    {
+      "chain_name": "Walgreens",
+      "type": "Retail Pharmacy Chain",
+      "notes": "**Walgreens typically has main store hours that differ from pharmacy hours.** Many offer drive-thru and pickup services. Some have integrated Community Health Network services.",
+      "locations": [
+        {
+          "name": "Walgreens Specialty Pharmacy (Mass Ave)",
+          "address": "335 MASSACHUSETTS AVE, INDIANAPOLIS, IN 46204",
+          "phone": "(317) 631-6000",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 5:00 PM (Closed Weekends)",
+            "store": "Pharmacy only location, no general store hours."
+          },
+          "notes": "Pharmacy only. Specializes in complex conditions."
+        },
+        {
+          "name": "Walgreens (N Meridian St)",
+          "address": "1530 N MERIDIAN ST, INDIANAPOLIS, IN 46202",
+          "phone": "(317) 261-1753",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat-Sun: 9:00 AM - 6:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 12:00 AM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Photo", "Pickup available"]
+        },
+        {
+          "name": "Walgreens (Kessler Blvd North Dr)",
+          "address": "3003 KESSLER BLVD NORTH DR, INDIANAPOLIS, IN 46222",
+          "phone": "(317) 925-3788",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Photo", "Pickup available"]
+        },
+        {
+          "name": "Walgreens (E Hanna Ave)",
+          "address": "902 E HANNA AVE, INDIANAPOLIS, IN 46227",
+          "phone": "(317) 780-1990",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        },
+        {
+          "name": "Walgreens (Albany St - Beech Grove)",
+          "address": "1808 ALBANY ST, BEECH GROVE, IN 46107",
+          "phone": "(317) 786-1031",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM",
+            "community_health_network_clinic": "Mon-Fri: 8:30 AM - 5:00 PM (Check for variations)"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Photo", "Pickup available", "Community Health Network services"]
+        },
+        {
+          "name": "Walgreens (Community Health Network - East)",
+          "address": "1400 N RITTER AVE, INDIANAPOLIS, IN 46219",
+          "phone": "(317) 352-2365",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 6:00 PM (Closed Weekends)",
+            "store": "Pharmacy only location, no general store hours."
+          },
+          "notes": "Pharmacy only, integrated with Community Health Network."
+        },
+        {
+          "name": "Walgreens (E 38th St)",
+          "address": "2920 E 38TH ST, INDIANAPOLIS, IN 46218",
+          "phone": "(317) 545-6167",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        },
+        {
+          "name": "Walgreens (N Arlington Ave)",
+          "address": "985 N ARLINGTON AVE, INDIANAPOLIS, IN 46219",
+          "phone": "(317) 351-5973",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Photo", "Pickup available"]
+        },
+        {
+          "name": "Walgreens (Mann Rd)",
+          "address": "3455 MANN RD, INDIANAPOLIS, IN 46221",
+          "phone": "(317) 487-0722",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Photo", "Pickup available"]
+        },
+        {
+          "name": "Walgreens (N Keystone Ave)",
+          "address": "5199 N KEYSTONE AVE, INDIANAPOLIS, IN 46205",
+          "phone": "(317) 257-4845",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Photo", "Pickup available"]
+        },
+        {
+          "name": "Walgreens (E Epler Ave)",
+          "address": "455 E EPLER AVE, INDIANAPOLIS, IN 46227",
+          "phone": "(317) 788-6671",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Photo", "Pickup available"]
+        },
+        {
+          "name": "Walgreens (W 10th St)",
+          "address": "7235 W 10TH ST, INDIANAPOLIS, IN 46214",
+          "phone": "(317) 487-9250",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Photo", "Pickup available"]
+        },
+        {
+          "name": "Walgreens (N Keystone Ave - Community Health Network)",
+          "address": "6191 N KEYSTONE AVE, INDIANAPOLIS, IN 46220",
+          "phone": "(317) 257-6746",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 7:00 PM (Closed 1:30 PM - 2:00 PM for meal break); Sat-Sun: Varies, call ahead.",
+            "store": "Mon-Sun: 8:00 AM - 11:00 PM",
+            "community_health_network_clinic": "Mon-Fri: 8:30 AM - 7:00 PM; Sat-Sun: 8:30 AM - 5:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Photo", "Pickup available", "Community Health Network Healthcare Clinic (onsite)"]
+        },
+        {
+          "name": "Walgreens (Georgetown Rd)",
+          "address": "5580 GEORGETOWN RD, INDIANAPOLIS, IN 46254",
+          "phone": "(317) 297-1777",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Photo", "Pickup available"]
+        },
+        {
+          "name": "Walgreens (E 10th St - Community Health Network)",
+          "address": "8905 E 10TH ST, INDIANAPOLIS, IN 46219",
+          "phone": "(317) 895-0023",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:30 AM - 6:00 PM (Closed Weekends)",
+            "store": "Pharmacy only location, no general store hours."
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Photo", "Pickup available", "Community Health Network services"]
+        },
+        {
+          "name": "Walgreens (Rockville Rd)",
+          "address": "9240 ROCKVILLE RD, INDIANAPOLIS, IN 46234",
+          "phone": "(317) 209-1047",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Photo", "Pickup available"]
+        },
+        {
+          "name": "Walgreens (E Southport Rd)",
+          "address": "6745 E SOUTHPORT RD, INDIANAPOLIS, IN 46237",
+          "phone": "(317) 887-0691",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Photo", "Pickup available"]
+        },
+        {
+          "name": "Walgreens (Community Health Network - South)",
+          "address": "1550 E COUNTY LINE RD, INDIANAPOLIS, IN 46227",
+          "phone": "(317) 534-6258",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 6:00 PM (Closed Weekends)",
+            "store": "Pharmacy only location, no general store hours."
+          },
+          "notes": "Pharmacy only, integrated with Community Health Network."
+        },
+        {
+          "name": "Walgreens (N State Road 135 - Greenwood)",
+          "address": "1290 N STATE ROAD 135, GREENWOOD, IN 46142",
+          "phone": "(317) 865-0472",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:30 AM - 7:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 11:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Photo", "Pickup available", "Community Health Network services"]
+        },
+        {
+          "name": "Walgreens (E 86th St)",
+          "address": "1505 E 86TH ST, INDIANAPOLIS, IN 46240",
+          "phone": "(317) 254-9206",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        },
+        {
+          "name": "Walgreens (N Shadeland Ave)",
+          "address": "7506 N SHADELAND AVE, INDIANAPOLIS, IN 46250",
+          "phone": "(317) 595-8964",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 10:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Photo", "Pickup available"]
+        },
+        {
+          "name": "Walgreens Specialty Pharmacy (N Meridian St)",
+          "address": "9002 N MERIDIAN ST, INDIANAPOLIS, IN 46260",
+          "phone": "(317) 587-7400",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:30 AM - 5:00 PM (Closed Weekends)",
+            "store": "Pharmacy only location, no general store hours."
+          },
+          "notes": "Pharmacy only. Specializes in complex conditions."
+        },
+        {
+          "name": "Walgreens (W 86th St - Community Health Network)",
+          "address": "3545 W 86TH ST, INDIANAPOLIS, IN 46268",
+          "phone": "(317) 228-0419",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:30 AM - 7:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "Mon-Sun: 7:00 AM - 11:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Photo", "Pickup available", "Community Health Network services"]
+        },
+        {
+          "name": "Walgreens (Community Health Network - North)",
+          "address": "7120 CLEARVISTA DR, INDIANAPOLIS, IN 46256",
+          "phone": "(317) 567-2651",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 6:00 PM (Closed Weekends)",
+            "store": "Pharmacy only location, no general store hours."
+          },
+          "notes": "Pharmacy only, integrated with Community Health Network."
+        }
+      ]
+    },
+    {
+      "chain_name": "Kroger Pharmacy",
+      "type": "Grocery Store Pharmacy Chain",
+      "notes": "Pharmacies located within Kroger grocery stores. **Pharmacy hours generally align with or are slightly shorter than the main store hours.** Many locations also house The Little Clinic (see previous response).",
+      "locations": [
+        {
+          "name": "Kroger Pharmacy (W Michigan St)",
+          "address": "227 W Michigan St Indianapolis, IN 46204",
+          "phone": "(317) 262-5267",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "Mon-Sun: 6:00 AM - 1:00 AM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        },
+        {
+          "name": "Kroger Pharmacy (Kentucky Ave)",
+          "address": "3361 Kentucky Ave Indianapolis, IN 46221",
+          "phone": "(317) 240-1588",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "Mon-Sun: 6:00 AM - 1:00 AM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        },
+        {
+          "name": "Kroger Pharmacy (Crawfordsville Rd)",
+          "address": "5718 Crawfordsville Rd Indianapolis, IN 46224",
+          "phone": "(317) 240-5007",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "Mon-Sun: 6:00 AM - 1:00 AM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        },
+        {
+          "name": "Kroger Pharmacy (E 10th St)",
+          "address": "7101 E 10th St Indianapolis, IN 46219",
+          "phone": "(317) 351-3216",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "Mon-Sun: 6:00 AM - 1:00 AM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        },
+        {
+          "name": "Kroger Pharmacy (Madison Ave)",
+          "address": "5911 Madison Ave Indianapolis, IN 46227",
+          "phone": "(317) 791-3545",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "Mon-Sun: 6:00 AM - 1:00 AM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        },
+        {
+          "name": "Kroger Pharmacy (E Thompson Rd)",
+          "address": "5350 E Thompson Rd Indianapolis, IN 46237",
+          "phone": "(317) 781-3566",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "Mon-Sun: 6:00 AM - 1:00 AM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        }
+      ]
+    },
+    {
+      "chain_name": "Walmart Pharmacy",
+      "type": "Retailer Pharmacy Chain",
+      "notes": "Pharmacies located within Walmart Supercenters. Offer a range of services including vaccines and specialty pharmacy.",
+      "locations": [
+        {
+          "name": "Walmart Pharmacy (W 86th St)",
+          "address": "3221 W 86th St, Indianapolis, IN 46268",
+          "phone": "(317) 876-9724",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 7:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "**24 Hours Daily** (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "$4 Prescriptions", "Specialty Pharmacy", "Pet Rx", "Mail Order Pharmacy", "Test & Treat (Strep, Flu, COVID-19)"]
+        },
+        {
+          "name": "Walmart Pharmacy (E Washington St)",
+          "address": "10617 E Washington St, Indianapolis, IN 46229",
+          "phone": "(317) 895-0316",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 7:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "**24 Hours Daily** (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "$4 Prescriptions", "Specialty Pharmacy", "Pet Rx", "Mail Order Pharmacy", "Test & Treat (Strep, Flu, COVID-19)"]
+        },
+        {
+          "name": "Walmart Pharmacy (W 10th St)",
+          "address": "5835 W 10th St Indianapolis, IN 46224",
+          "phone": "(317) 243-2516",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 7:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "**24 Hours Daily** (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        },
+        {
+          "name": "Walmart Pharmacy (Michigan Rd)",
+          "address": "5555 Michigan Rd Indianapolis, IN 46228",
+          "phone": "(317) 287-0427",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 7:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "**24 Hours Daily** (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        },
+        {
+          "name": "Walmart Pharmacy (S Emerson Ave)",
+          "address": "4650 S Emerson Ave Indianapolis, IN 46203",
+          "phone": "(317) 783-1484",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 7:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "**24 Hours Daily** (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        },
+        {
+          "name": "Walmart Pharmacy (Lafayette Rd)",
+          "address": "4545 Lafayette Rd Indianapolis, IN 46254",
+          "phone": "(317) 328-0401",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 7:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "**24 Hours Daily** (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        },
+        {
+          "name": "Walmart Pharmacy (E Fall Creek Parkway North Dr)",
+          "address": "5550 E Fall Creek Parkway North Dr Indianapolis, IN 46226",
+          "phone": "(317) 614-4051",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 7:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "**24 Hours Daily** (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        }
+      ]
+    },
+    {
+      "chain_name": "Meijer Pharmacy",
+      "type": "Supercenter Pharmacy Chain",
+      "notes": "Pharmacies located within Meijer supercenters. Offer various services including specialty pharmacy and drug take-back kiosks.",
+      "locations": [
+        {
+          "name": "Meijer Pharmacy (E Washington St)",
+          "address": "11351 E Washington St, Indianapolis, IN",
+          "phone": "(317) 894-6710",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "**24 Hours Daily** (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Specialty Pharmacy", "Pet Prescriptions", "Drug Take Back Kiosk", "Drive-up"]
+        },
+        {
+          "name": "Meijer Pharmacy (Pike Plaza Rd)",
+          "address": "5349 Pike Plaza Rd, Indianapolis, IN 46254",
+          "phone": "Refer to store locator, main store phone: (317) 297-7000",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 9:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: 10:00 AM - 5:00 PM",
+            "store": "**24 Hours Daily** (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Vaccinations", "Specialty Pharmacy", "Pet Prescriptions", "Drug Take Back Kiosk"]
+        }
+      ]
+    },
+    {
+      "chain_name": "Costco Pharmacy",
+      "type": "Warehouse Club Pharmacy",
+      "notes": "Pharmacies located within Costco warehouses. A **membership is typically required** for warehouse entry, but pharmacy access sometimes has different rules (confirm with specific location). Pharmacy hours are generally more limited than warehouse hours.",
+      "locations": [
+        {
+          "name": "Costco Pharmacy (Castleton)",
+          "address": "6110 E 86TH ST, INDIANAPOLIS, IN, 46250-3507",
+          "phone": "(317) 558-1452",
+          "hours": {
+            "pharmacy": "Mon-Fri: 10:00 AM - 7:00 PM; Sat: 9:30 AM - 6:00 PM; Sun: CLOSED (May close for 30 minutes between 1:30 PM and 2:30 PM for lunch if only one pharmacist on duty.)",
+            "warehouse": "Mon-Fri: 10:00 AM - 8:30 PM; Sat: 9:30 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        },
+        {
+          "name": "Costco Pharmacy (S Indianapolis)",
+          "address": "4628 E COUNTY LINE RD, INDIANAPOLIS, IN, 46237-9105",
+          "phone": "(317) 360-7086",
+          "hours": {
+            "pharmacy": "Mon-Fri: 10:00 AM - 7:00 PM; Sat: 9:30 AM - 6:00 PM; Sun: CLOSED (May close for 30 minutes between 1:30 PM and 2:30 PM for lunch if only one pharmacist on duty.)",
+            "warehouse": "Mon-Fri: 10:00 AM - 8:30 PM; Sat: 9:30 AM - 6:00 PM; Sun: 10:00 AM - 6:00 PM"
+          },
+          "services": ["Prescription Refills", "Vaccinations"]
+        }
+      ]
+    },
+    {
+      "chain_name": "Sam's Club Pharmacy",
+      "type": "Warehouse Club Pharmacy",
+      "notes": "Pharmacies located within Sam's Club warehouses. Offers everyday savings on prescriptions and immunizations. **Membership typically required** for warehouse entry.",
+      "locations": [
+        {
+          "name": "Sam's Club Pharmacy #8168",
+          "address": "7245 E 96th Street Indianapolis, IN 46250",
+          "phone": "(317) 585-9387",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 7:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: CLOSED",
+            "club": "Mon-Fri: 10:00 AM - 8:30 PM; Sat: 9:00 AM - 8:30 PM; Sun: 10:00 AM - 6:00 PM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Immunizations & Vaccines", "Curbside Pickup", "Prescription Delivery", "Pet Medication", "$0 prescriptions for Plus Members"]
+        },
+        {
+          "name": "Sam's Club Pharmacy #6304",
+          "address": "5805 Rockville Rd, Indianapolis, IN 46224",
+          "phone": "(317) 248-3577",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 7:00 PM; Sat: 9:00 AM - 6:00 PM; Sun: CLOSED",
+            "club": "Mon-Fri: 10:00 AM - 8:30 PM; Sat: 9:00 AM - 8:30 PM; Sun: 10:00 AM - 6:00 PM (verify current hours)"
+          },
+          "services": ["Prescription Refills", "Immunizations & Vaccines", "Curbside Pickup", "Prescription Delivery", "Pet Medication"]
+        }
+      ]
+    },
+    {
+      "chain_name": "Hospital-Affiliated Pharmacies",
+      "type": "Hospital Retail Pharmacy",
+      "notes": "Pharmacies often located within major hospital systems, serving patients and the public. May have more specialized inventory or integrate with hospital EMRs. **Hours can vary significantly.**",
+      "locations": [
+        {
+          "name": "University Retail Pharmacy (IU Health)",
+          "address": "550 University Blvd Indianapolis, IN 46202",
+          "phone": "(317) 944-3445",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 5:00 PM; Sat-Sun: CLOSED (verify current hours)"
+          },
+          "services": ["Prescription Services"]
+        },
+        {
+          "name": "Riley Retail Pharmacy (IU Health)",
+          "address": "705 Riley Hospital Dr Indianapolis, IN 46202",
+          "phone": "(317) 944-2335",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 5:00 PM; Sat-Sun: CLOSED (verify current hours)"
+          },
+          "notes": "Located within Riley Hospital for Children.",
+          "services": ["Pediatric Prescriptions", "Specialty Medications"]
+        },
+        {
+          "name": "Eskenazi Health St. Margaret's Pharmacy",
+          "address": "720 Eskenazi Ave Indianapolis, IN 46202",
+          "phone": "(317) 880-4526",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 6:00 PM; Sat-Sun: CLOSED (verify current hours)"
+          },
+          "services": ["Prescription Services", "Community Health Focus"]
+        },
+        {
+          "name": "Eskenazi Health Pharmacy West 38th Street",
+          "address": "5515 W 38th St Ste 1200 Indianapolis, IN 46254",
+          "phone": "(317) 880-0100",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 5:00 PM; Sat-Sun: CLOSED (verify current hours)"
+          },
+          "services": ["Prescription Services", "Community Health Focus"]
+        }
+      ]
+    },
+    {
+      "chain_name": "Independent Pharmacies",
+      "type": "Independent Retail Pharmacy",
+      "notes": "Independent pharmacies often offer personalized services, compounding, and specialized consultations that may not be available at larger chains. It is highly recommended to **check their specific websites or call them directly for detailed service offerings and current hours**, as these can vary widely.",
+      "locations": [
+        {
+          "name": "Dr Aziz Pharmacy",
+          "address": "7320 E 82nd St, Indianapolis, IN 46256",
+          "phone": "(317) 842-5771",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:30 AM - 6:00 PM; Sat: 9:00 AM - 4:00 PM; Sun: CLOSED"
+          },
+          "services": ["Compounding", "Weight Loss Support", "Medical Clinic", "Medical Equipment", "Diabetic Shoes", "Supplements", "Immunizations", "Drive-Thru"]
+        },
+        {
+          "name": "Nora Apothecary",
+          "address": "1101 E 86th St, Indianapolis, IN 46240",
+          "phone": "(317) 251-9547",
+          "fax": "(317) 251-9556",
+          "hours": {
+            "pharmacy": "Mon-Fri: 9:00 AM - 6:00 PM; Sat-Sun: CLOSED"
+          },
+          "services": ["Custom Medications & Compounding", "Veterinary Medications", "Vitamin and Mineral Supplements", "Hormone Replacement Therapy", "Online Consultation"]
+        },
+        {
+          "name": "Damien Pharmacy",
+          "address": "26 N ARSENAL AVE Indianapolis, IN 46201",
+          "phone": "(317) 981-1989",
+          "hours": {
+            "pharmacy": "Varies, check directly."
+          },
+          "services": ["Prescription Services"]
+        },
+        {
+          "name": "Alivio Pharmacy, LLC",
+          "address": "2060 N Shadeland Ave Ste 101 Indianapolis, IN 46219",
+          "phone": "(317) 354-8160",
+          "hours": {
+            "pharmacy": "Mon-Fri: 10:30 AM - 6:30 PM; Sat-Sun: CLOSED (verify current hours)"
+          },
+          "services": ["Prescription Services"]
+        },
+        {
+          "name": "Indy Scripts Pharmacy",
+          "address": "5343 W 38th St Indianapolis, IN 46254",
+          "phone": "(317) 820-5454",
+          "hours": {
+            "pharmacy": "Varies, check directly."
+          },
+          "services": ["Prescription Services"]
+        },
+        {
+          "name": "Genoa Healthcare, LLC",
+          "address": "222 E OHIO ST RM 102 Indianapolis, IN 46204",
+          "phone": "(253) 218-0830",
+          "hours": {
+            "pharmacy": "Varies, often specialized hours for mental health facilities (check directly)."
+          },
+          "notes": "Often affiliated with mental health facilities or services."
+        },
+        {
+          "name": "Needler's Fresh Market Pharmacy",
+          "address": "320 N New Jersey St Indianapolis, IN 46204",
+          "phone": "(317) 262-4888",
+          "hours": {
+            "pharmacy": "Varies, check directly."
+          },
+          "notes": "Pharmacy within a grocery market."
+        },
+        {
+          "name": "Indiana University Health Home Care (Pharmacy Services)",
+          "address": "950 N Meridian St Ste 700 Indianapolis, IN 46204",
+          "phone": "(317) 962-4740",
+          "hours": {
+            "pharmacy": "Mon-Fri: 8:00 AM - 5:00 PM; Sat-Sun: CLOSED"
+          },
+          "notes": "Focuses on home care prescription needs."
+        }
+      ]
+    }
+  ]
+}
