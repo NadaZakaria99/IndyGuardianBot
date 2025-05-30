@@ -31,3 +31,12 @@ IndyGuardian Bot is a dual-purpose chatbot system offering two specialized assis
 - Add your Google AI API key through the web interface
 - Run: python main.py
 - Access at http://localhost:7867
+  
+**Resource Files Required**
+- Human_emergency_shelters_indianapolis.json
+- animal_shelters_indianapolis.json
+- Hospitals_and_Clinics.json
+- pharmacies.json
+- public_safety.json
+- Mental Wellness and Support.pdf
+All of this file in the IndyGuardianBot_Data.zip
