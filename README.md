@@ -40,4 +40,4 @@ IndyGuardian Bot is a dual-purpose chatbot system offering two specialized assis
 - public_safety.json
 - Mental Wellness and Support.pdf
   
-All of this file in the IndyGuardianBot_Data.zip
+All of this files in the IndyGuardianBot_Data.zip
