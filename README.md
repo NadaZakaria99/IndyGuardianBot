@@ -1,6 +1,6 @@
 # IndyGuardian Bot 🏙️
 A comprehensive dual-purpose chatbot system providing mental health support and resource location services for Indianapolis residents
-Built for the Indy Civic Tech Hackathon 2025 - Chatbots for Public Safety Challenge
+Built for the Indy Civic Tech - Chatbots for Public Safety Challenge
 
 # What it does
 IndyGuardian Bot is a dual-purpose chatbot system offering two specialized assistants:
